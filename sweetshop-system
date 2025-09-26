@@ -1,0 +1,10 @@
+sweetshop-system/
+│── src/
+│   └── sweetshop.py
+│
+│── tests/
+│   └── test_sweetshop.py
+│
+│── .gitignore
+│── README.md
+│── requirements.txt
