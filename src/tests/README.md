@@ -9,7 +9,3 @@ This project is built using **Test Driven Development (TDD)** in Python.
 - Generate low stock report
 - Track daily sales
 
-## How to Run Tests
-```bash
-pip install -r requirements.txt
-pytest
